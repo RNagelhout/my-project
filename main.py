@@ -11,7 +11,7 @@ def index():
 
 @app.route('/cow')
 def cow():
-        return 'MOooowefthrsfso!'
+        return 'MOooowesvefthrsfso!'
 
 if __name__ ==  "__main__":
         app.run(debug=True)
